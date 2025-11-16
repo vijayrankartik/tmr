@@ -76,7 +76,7 @@ body {
 /* Responsive for mobile */
   @media (max-width: 768px) {
     body {
-        background-image: url("assets/rect/rm119batch4-adj-20-leavesframe.jpg");
+        background-image: url("rm119batch4-adj-20-leavesframe.jpg");
     }
     .container {
       flex-direction: column;
@@ -95,4 +95,5 @@ body {
         margin-left: 30vw;
         height: 10%;
     }
+
   }
