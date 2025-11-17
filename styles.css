@@ -90,11 +90,12 @@ body {
         color: black;
     }
     .map-section {
-        margin-top: 3vh;
-        width: 50vw;
-        margin-left: 32vw;
+        margin-top: 0;
+        width: 55vw;
+        margin-left: 35vw;
         height: 10%;
     }
 
   }
+
 
